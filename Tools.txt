@@ -1,0 +1,9 @@
+-Context API (redux)
+-Material UI (icons etc)
+-React Router
+-Google Curstom Search API
+-custom Hook with React
+-Firebase - connect to google and deploy app
+
+Tutorial
+-> https://www.youtube.com/watch?v=DAWWf7q8sqM&t=1s&ab_channel=CleverProgrammer
